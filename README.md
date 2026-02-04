@@ -5,7 +5,7 @@ Merhba biiik in "Zineb Question !"
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JOJO Question</title>
+    <title>"Zineb Question !"</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -93,7 +93,7 @@ Merhba biiik in "Zineb Question !"
         });
 
         document.getElementById('yes').addEventListener('click', function() {
-            alert('Hakaa Nhebeek Ma Vie ❤️❤️');
+            alert('Ranii ngeser elblk beli Nhbek Khtii ❤️❤️');
         });
     </script>
 </body>
