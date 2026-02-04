@@ -1,5 +1,5 @@
-#       JOJO ❤️
-Merhba biiik in "JOJO Question !"
+#       Zinoubaa ❤️
+Merhba biiik in "Zineb Question !"
 
 <html lang="en">
 <head>
@@ -59,7 +59,7 @@ Merhba biiik in "JOJO Question !"
 </head>
 <body>
     <img src="https://preview.redd.it/tiny-head-big-body-teddy-bear-aka-pip-the-bear-v0-mlh1k8p5lqk91.jpg?width=750&format=pjpg&auto=webp&s=bb219303ebce2f3ba005fbfbfa861d827077d1d1" alt="Teddy Bear with Big Head">
-    <h2>JOJO Rasso Kbir ? ❤️ </h2>
+    <h2>Zinouuba Khti Sah Nti SMIIIINAAA ? ❤️ </h2>
     <div class="buttons">
         <div>
             <button id="yes">Ih</button>
@@ -84,11 +84,11 @@ Merhba biiik in "JOJO Question !"
             if (clickCount === 1) {
                 messageElement.textContent = "Oooh Binetna rena ngessro";
             } else if (clickCount === 2) {
-                messageElement.textContent = "Ayaa Chwiiiya kbir nrml iiih";
+                messageElement.textContent = "Ayaa Chwiiiya Smiina khti ntiyaa yeek";
             } else if (clickCount === 3) {
-                messageElement.textContent = "Khlas raso sghir w Nifek Kbiir mliha ?";
+                messageElement.textContent = "Khlas Sminaa Lyouum brkk, mliha ?";
             } else {
-                messageElement.textContent = "Khlas raso sghir c bn, Click sur Ih"; // Répète après le 3ème
+                messageElement.textContent = "Khlas mechi sminaa, Click ela Ih N9lk Hejaa"; // Répète après le 3ème
             }
         });
 
