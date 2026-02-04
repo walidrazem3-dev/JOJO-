@@ -93,7 +93,7 @@ Merhba biiik in "Zineb Question !"
         });
 
         document.getElementById('yes').addEventListener('click', function() {
-            alert('Ranii ngeser elblk beli Nhbek Khtii ❤️❤️');
+            alert('Ranii ngeser elblk beli Nhbek Khtii ❤️');
         });
     </script>
 </body>
